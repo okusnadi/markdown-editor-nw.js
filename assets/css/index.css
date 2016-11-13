@@ -1,0 +1,11 @@
+.CodeMirror, .CodeMirror-scroll {
+    min-height: 400px;
+}
+
+/* .CodeMirror-cursor {
+  border-left-color: red;
+} */
+
+.footer {
+    display: none;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "MarkdownEditor",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "width": 1024,
+    "height": 768,
+    "frame": true,
+    "toolbar": false
+  },
+  "scripts": {
+    "start": "/usr/local/lib/nwjs-sdk-v0.18.6-osx-x64/nwjs.app/Contents/MacOS/nwjs ."
+  }
+}
